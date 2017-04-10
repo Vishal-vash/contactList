@@ -8,7 +8,6 @@ Server - Express JS
 Front End - Angular JS version 1.6.x
 Package Manager - Node
 
-
 How to Install dependencies and Run the app --
 
 Just create a project folder named 'contactList'.
