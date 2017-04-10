@@ -1,0 +1,21 @@
+{
+  "name": "contactlist",
+  "version": "1.0.0",
+  "description": "Simple contact List app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start" : "node server"
+  },
+  "keywords": [
+    "contact"
+  ],
+  "author": "Vishal Vasishat",
+  "license": "ISC",
+  "devDependencies": {
+    "bower": "1.7.7",
+    "express": "*",
+    "mongojs": "*",
+    "body-parser": "*"
+  }
+}
